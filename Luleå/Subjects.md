@@ -29,7 +29,7 @@ Department of Computer Science, Electrical and Space Engineering
 
 - Credits: 7.5
 - Code: D7036E
-- Modules: 2, 4
+- Modules: 1, 5
 - Syllabus: https://www.ltu.se/edu/course/D70/D7036E/D7036E-Algoritmer-for-stora-datamangder-1.124759?l=en&kursView=kursplan
 
 ### Stochastic signals
