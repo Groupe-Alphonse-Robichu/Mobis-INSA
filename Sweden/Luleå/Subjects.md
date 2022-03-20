@@ -39,6 +39,13 @@ Department of Computer Science, Electrical and Space Engineering
 - Modules: 4, 5
 - Syllabus: https://www.ltu.se/edu/course/S70/S7001E/S7001E-Stokastiska-signaler-1.69342?l=en&kursView=kursplan
 
+### Advanced Data Mining
+
+- Credits: 7.5
+- Code: D7043E
+- Modules: None
+- Syllabus: https://www.ltu.se/edu/course/D70/D7043E/D7043E-Avancerad-Data-Mining-1.180529?l=en&kursView=kursplan
+
 ### Business Intelligence
 
 - Credits: 7.5
@@ -73,13 +80,6 @@ Department of Computer Science, Electrical and Space Engineering
 - Code: R7015E
 - Modules: 2, 6
 - Syllabus: https://www.ltu.se/edu/course/R70/R7015E/R7015E-Systemidentifiering-1.172019?l=en&kursView=kursplan
-
-### Advanced Data Mining
-
-- Credits: 7.5
-- Code: D7043E
-- Modules: None
-- Syllabus: https://www.ltu.se/edu/course/D70/D7043E/D7043E-Avancerad-Data-Mining-1.180529?l=en&kursView=kursplan
 
 ## S9 - 2
 
@@ -131,5 +131,9 @@ Department of Computer Science, Electrical and Space Engineering
 - Code: D7041E
 - Modules: 2, 4
 - Syllabus: https://www.ltu.se/edu/course/D70/D7041E/D7041E-Tillampad-artificiell-intelligens-1.154692?l=en&kursView=kursplan
+
+-------------------
+
+*Mise à jour : 20/03/2022*
 
 
