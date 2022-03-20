@@ -1,0 +1,17 @@
+Nom et prénom de l'étudiant :
+
+Option suivie à l'INSA :
+
+Établissement d'accueil, pays :
+
+Projet professionnel : 
+
+Liste de cours, en format ci-dessous pour chaque cours :
+- code national du cours
+- titre du cours
+- description du cours
+- niveau où le cours est proposé (M1 ou M2)
+- url
+- nombre de crédits locaux
+- équivalent en ECTS
+
