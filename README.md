@@ -3,7 +3,7 @@
 ## Liens utiles
 
 - [Page Moodle INFO](https://moodleng.insa-rennes.fr/course/view.php?id=2957)
-- [Page Moodle SRI](https://moodleng.insa-rennes.fr/course/view.php?id=2957)
+- [Page Moodle SRI](https://moodleng.insa-rennes.fr/course/view.php?id=2251)
 - [Documents à remplir](https://intranet.insa-rennes.fr/documents-obligatoires-2022/23.html)
 - [Page sur l'intranet](https://intranet.insa-rennes.fr/mobilite-internationale.html)
 - [GetAway](https://getawayfrom.insa-rennes.fr)
@@ -23,7 +23,9 @@ Quand un étudiant est nominé par le conseil RI, il est nominé par l'INSA aupr
 
 Avant cela, les étudiants doivent au préalable formuler la liste des matières qu'ils souhaitent suivre au cours de la mobilité. Cette liste n'est pas figée mais elle doit être approuvée par le responsable RI du département INFO avant de commencer les inscriptions. Il faut veiller à ce que les matières en question ne s'éloignent pas trop de la formation proposée à l'INSA et qu'elles n'aient pas déjà été suivies auapravent par l'étudiant. Pour ceux qui partent au S8, on demandera également de choisir des cours qui remplacent ceux qui auraient normalement été suivis à l'INSA. 
 
-Une fois le contrat d'étude approuvé, l'étudiant peut commencer les inscriptions sur le site de l'établissement d'accueil, en suivant la procédure qu'il aura reçu par mail. Il est à noter qu'il n'y a rien à payer, ce sont les frais d'inscription à l'INSA de l'année suivante qui couvrent le prix de la formation pendant le semestre de mobilité. Il est à noter que chaque université a des deadlines différentes, elles sont en général renseignées sur le site mais il faut également garder à l'esprit que dans certains établissements la deadline d'inscription n'est pas celle affichée sur le site car le partenariat inclut un délai supplémentaire. Cette information se retrouve normalement dans le mail. Les documents à fournir pour les inscriptions varient, on peut par exemple demander de fournir :
+Une fois la liste des matières approuvée, l'étudiant peut remplir le contrat d'études et le déposer sur MoveOn, puis avertir son correspondant RI pour qu'il le signe à son tour. Attention, il y a deux modèles : le modèle ERASMUS+ pour les universités concernées par cet accord et le modèle INSA pour les autres (voir documents à remplir dans les [liens utiles](#liens-utiles)).
+
+L'étudiant peut alors commencer les inscriptions sur le site de l'établissement d'accueil, en suivant la procédure qu'il aura reçu par mail. Il est à noter qu'il n'y a rien à payer, ce sont les frais d'inscription à l'INSA de l'année suivante qui couvrent le prix de la formation pendant le semestre de mobilité. Il est à noter que chaque université a des deadlines différentes, elles sont en général renseignées sur le site mais il faut également garder à l'esprit que dans certains établissements la deadline d'inscription n'est pas celle affichée sur le site car le partenariat inclut un délai supplémentaire. Cette information se retrouve normalement dans le mail. Les documents à fournir pour les inscriptions varient, on peut par exemple demander de fournir :
  - Une copie d'une pièce d'identité
  - Le relevé de notes INFO (à demander au secrétariat INFO)
  - Le relevé de notes STPI (à demander au secrétariat STPI)
@@ -66,5 +68,5 @@ Regardez votre boîte mail INSA régulièrement ! Vous pouvez recevoir des mails
 
 -------------------------
 
-Mise à jour : 02/04/2022
+Mise à jour : 15/04/2022
 
