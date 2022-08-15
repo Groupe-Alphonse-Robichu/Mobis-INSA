@@ -13,6 +13,37 @@ Deux semaines avant le début des cours se tient la *arrival week* pendant laque
 
 La semaine qui suit est la *orientation week*, qui est obligatoire. **En théorie**, cette semaine est très importante car elle vous permet de vous préparer à la vie en suède et à la vie universitaire sur le campus. On vous donnera un *information pack* contenant notamment des cartes, horaires de bus, ...
 
+### Welcome meetings
+
+Le premier jour de l'*orientation week* se tiennent deux réunions d'accueil, respectivement tenues par ESN Luleå (aka le LURC) puis par le LTU. Ces réunions se déroulent en présentiel et via Zoom pour cuex qui ne sont pas encore sur place.
+
+Pour le semestre d'automne 2022, les réunions auront lieu à l'auditorium du LKAB, en commençant par le LURC de 8h30 à 9h45, suivi du LTU de 10h à 11h30. 
+
+### Academic workshops
+
+Des ateliers sont organisés pour expliquer le système administratif du LTU. Il faut participer à un atelier sur Zoom parmi les différents créneaux proposés.
+
+Les créneaux pour le semestre d'automne 2022 sont les suivants :
+ - 19/08, 10h-11h30
+ - 23/08, 10h-11h30
+ - 26/08, 10h-11h30
+ - 30/08, 10h-11h30
+
+> Note : il est déconseillé d'assister au 4ème créneau car il ne s'adresse pas aux étudiants en mobilité et son contenu ne sera pas adapté, les trois autres devraient avoir exactement le même contenu
+
+### Récupération de la carte étudiant (LTU ID card)
+
+La carte étudiant peut être récupérée au *Service Point*, bâtiment B. Il faudra pour cela présenter une pièce d'identitée.
+
+Les créneaux pour le semestre d'automne 2022 sont les suivants :
+ - 17/08, 13h-14h
+ - 19/08, 13h-14h
+ - 23/08, 13h-14h
+ - 26/08, 13h-14h
+ - 30/08, 13h-14h
+
+Après avoir récupéré la carte étudiant, il sera possible de signer le Learning Agreement aux mêmes horaires qu'indiqués ci-dessus.
+
 ## Transports
 
 Luleå comporte un aéroport, son code international est LLA.
