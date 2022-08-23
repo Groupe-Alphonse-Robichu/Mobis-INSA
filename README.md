@@ -1,5 +1,9 @@
 # Mobis-INSA
 
+**Ce repo s'adresse principalement aux étudiants du département INFO de l'INSA de Rennes.** Si ce n'est pas votre cas, vous pourrez toujours trouver certaines informations intéressantes, mais prenez bien en compte le fait que certaines choses peuvent être différentes en fonction de votre pays, domaine d'étude, temps de séjour, ...
+
+> Il est à noter que certaines informations présentes sur ce repo peuvent varier en fonction des années, référez-vous donc toujours aux dates de dernière modification indiquées en bas de page
+
 ## Liens utiles
 
 - [Page Moodle INFO](https://moodleng.insa-rennes.fr/course/view.php?id=2957)
@@ -68,5 +72,5 @@ Regardez votre boîte mail INSA régulièrement ! Vous pouvez recevoir des mails
 
 -------------------------
 
-Mise à jour : 15/04/2022
+Mise à jour : 23/08/2022
 
