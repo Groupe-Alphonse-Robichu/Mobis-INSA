@@ -97,10 +97,14 @@ Les documents requis sont :
 - Formulaire de demande de visa. Celui envoyé par Keio par mail est celui avec une photo au format japonais. Préférer prendre celui du site de l'ambassade, qui lui prend les photos 35x45mm.
 A remplir au maximum au préalable, mais pour toute question ou doute, il est préférable de laisser la section vide puis de demander. Les sections pouvant être compliquée :
     - ID No. issued to you by your government : Laisser vide si Français
-    - Name of ship or airline : Compagnie aérienne
     - Place of issue / Issing authority : Sur la ligne marquée *Autorité* sur le passeport. `Préfecture de ...` est l'Issuing Authority et la ville marquée en majuscules est la Place of issue
+    - Purpose of visit to Japan: Studies
+    - Intended length of stay in Japan: Pas besoin d'être précis au jour près, mettre juste "6 months" ça suffit
+    - Name of ship or airline : Compagnie aérienne
     - Current profession or occupation and position : Student
     - Name and address of employer : remplir le nom (avec le nom de l'école) et l'adresse suiffit
+    - Guarantor in Japan: Il est indiqué dans le formulaire pré-rempli que fourni Keio. Il se trouve dans le mail qui indique que vous êtes officiellement admis à Keio, dans un lien `keio.app.box.com` (je ne met pas les informations personnelles de la personne ici pour des raisons de vie privée)
+    - Inviting Person in Japan: messtre juste "same as above" dans Name
 - 1 photographie d'identité de bonne qualité datant de moins de 6 mois
 - Le passeport original + une photocopie de la page principale (en cours de validité)
 - L'original du *Certificate of Elegibility* (COE)
