@@ -102,7 +102,7 @@ A remplir au maximum au préalable, mais pour toute question ou doute, il est pr
     - Intended length of stay in Japan: Pas besoin d'être précis au jour près, mettre juste "6 months" ça suffit
     - Name of ship or airline : Compagnie aérienne
     - Current profession or occupation and position : Student
-    - Name and address of employer : remplir le nom (avec le nom de l'école) et l'adresse suiffit
+    - Name and address of employer : remplir le nom (avec le nom de l'école) et l'adresse suffit. **ATTENTION:** C'est l'adresse de l'INSA et pas celle de Keio
     - Guarantor in Japan: Il est indiqué dans le formulaire pré-rempli que fourni Keio. Il se trouve dans le mail qui indique que vous êtes officiellement admis à Keio, dans un lien `keio.app.box.com` (je ne met pas les informations personnelles de la personne ici pour des raisons de vie privée)
     - Inviting Person in Japan: messtre juste "same as above" dans Name
 - 1 photographie d'identité de bonne qualité datant de moins de 6 mois
