@@ -104,7 +104,7 @@ A remplir au maximum au préalable, mais pour toute question ou doute, il est pr
     - Current profession or occupation and position : Student
     - Name and address of employer : remplir le nom (avec le nom de l'école) et l'adresse suffit. **ATTENTION:** C'est l'adresse de l'INSA et pas celle de Keio
     - Guarantor in Japan: Il est indiqué dans le formulaire pré-rempli que fourni Keio. Il se trouve dans le mail qui indique que vous êtes officiellement admis à Keio, dans un lien `keio.app.box.com` (je ne met pas les informations personnelles de la personne ici pour des raisons de vie privée)
-    - Inviting Person in Japan: messtre juste "same as above" dans Name
+    - Inviting Person in Japan: mettre juste "same as above" dans Name
 - 1 photographie d'identité de bonne qualité datant de moins de 6 mois
 - Le passeport original + une photocopie de la page principale (en cours de validité)
 - L'original du *Certificate of Elegibility* (COE)
